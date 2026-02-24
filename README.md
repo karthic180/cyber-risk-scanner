@@ -1,8 +1,12 @@
 # Cyber Risk Scanner
 
-## Overview
+[![Build Status](https://img.shields.io/github/workflow/status/karthic180/cyber-risk-scanner/CI)](https://github.com/karthic180/cyber-risk-scanner/actions)
+[![Coverage Status](https://coveralls.io/repos/github/karthic180/cyber-risk-scanner/badge.svg?branch=master)](https://coveralls.io/github/karthic180/cyber-risk-scanner?branch=master)
+[![License](https://img.shields.io/github/license/karthic180/cyber-risk-scanner)](https://github.com/karthic180/cyber-risk-scanner/blob/master/LICENSE)
 
-The is a tool that helps analyze and assess the risk of websites and web domains. It provides insights into potential security threats by checking SSL certificates, performing Whois lookups, analyzing ports, and more.
+## Description
+
+The Cyber Risk Scanner is a tool designed to analyze and detect various cyber risks, including phishing attempts, SSL vulnerabilities, and domain risks.
 
 ## Features
 

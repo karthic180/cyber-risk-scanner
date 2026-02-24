@@ -1,7 +1,4 @@
 # Cyber Risk Scanner
-
-[![Build Status](https://img.shields.io/github/workflow/status/karthic180/cyber-risk-scanner/CI)](https://github.com/karthic180/cyber-risk-scanner/actions)
-[![Coverage Status](https://coveralls.io/repos/github/karthic180/cyber-risk-scanner/badge.svg?branch=master)](https://coveralls.io/github/karthic180/cyber-risk-scanner?branch=master)
 [![License](https://img.shields.io/github/license/karthic180/cyber-risk-scanner)](https://github.com/karthic180/cyber-risk-scanner/blob/master/LICENSE)
 
 ## Description
